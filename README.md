@@ -15,7 +15,7 @@
 
 程序将读取当前文件下的`registration.pcproperties`（在目录`x64\Release` 下）打开之后如下:
 
-![](img\QQ截图20210124183556.png)
+![](https://github.com/whwuhan/Registration/blob/master/img/QQ%E6%88%AA%E5%9B%BE20210124183556.png)
 
 * dis_threshold：最近点的偏差阈值，超过此阈值的点会被筛选出，现在已经设置为0.005
 * iter：是配准的迭代此时，次数愈多时间花费愈多，但是效果越好，暂时设为100
@@ -92,9 +92,9 @@
 
 ## 3.效果图
 
-![](效果图\result_1.png)
+![](https://github.com/whwuhan/Registration/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/result_1.png)
 
-![](效果图\result_2.png)
+![](https://github.com/whwuhan/Registration/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/result_2.png)
 
 ## 附录
 
