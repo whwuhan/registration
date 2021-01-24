@@ -91,6 +91,9 @@
   * has_converged：icp算法是否收敛（1收敛，0未收敛）
   * fitness_score：得分
   * trans_mat：旋转平移矩阵
+* icp_res.ply：扫描点云配准后的结果（没有染色）
+* icp_res_color.ply：扫描点云配准后，根据偏差染色后的结果（如效果图中所示）
+* outlier_res_0.005.ply：扫描点云配准后，偏差超过阈值0.005的点云
 
 ## 3.效果图
 
