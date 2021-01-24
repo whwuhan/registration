@@ -48,9 +48,9 @@
   * has_converged：算法是否收敛，1是收敛，0是不收敛
   * fitness_score：误差评价，越低越好
   * trans_mat：旋转平移矩阵
-* output_color_grade_1：颜色区分第一级(0~output_color_grade_1)
-* output_color_grade_2：颜色区分第二级(output_color_grade_1~output_color_grade_2)
-* output_color_grade_3：颜色区分第三级(output_color_grade_2~output_color_grade_3)，最后是(output_color_grade_3~无穷)
+* output_color_grade_1：颜色区分第一级(0\~output_color_grade_1)
+* output_color_grade_2：颜色区分第二级(output_color_grade_1\~output_color_grade_2)
+* output_color_grade_3：颜色区分第三级(output_color_grade_2\~output_color_grade_3)，最后是(output_color_grade_3\~无穷)
 * outlier_remove：是否对扫描点云进行降噪
 * outlier_radius：降噪算法参数，表示每个点的搜索半径
 * outlier_min_neighbors：降噪算法参数，表示半径内最少点数（低于最少点数，视为噪点）
