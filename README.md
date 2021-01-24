@@ -13,7 +13,7 @@
 
 ### 2.1 参数设置
 
-程序将读取当前文件下的`registration.pcproperties`（在目录`x64\Release` 下）打开之后如下:
+程序将读取`x64\Release`下的`registration.pcproperties`文件，打开之后如下:
 
 ![](https://github.com/whwuhan/Registration/blob/master/img/QQ%E6%88%AA%E5%9B%BE20210124183556.png)
 
