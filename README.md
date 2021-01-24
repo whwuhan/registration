@@ -94,8 +94,15 @@
 
 ## 3.效果图
 
+没有差异的地方为蓝色
+有较小差异的地方为绿色
+有交大差异的地方为黄色
+差异大巨大的地方为红色
+
+* 石柱扫描点云相较于原始模型差异结果1：
 ![](https://github.com/whwuhan/Registration/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/result_1.png)
 
+* 石柱扫描点云相较于原始模型差异结果2：
 ![](https://github.com/whwuhan/Registration/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/result_2.png)
 
 ## 附录
