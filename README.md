@@ -25,7 +25,7 @@
 * output_format：输出点云的格式，都使用ply
 * output_file_icp：是扫描点云icp配准的结果，目前放在`x64\Release\data`下
 * output_file_outlier：偏差超过阈值`dis_threshold`的点，目前放在`x64\Release\data`下
-* output_file_icp_color：点云染色后的结果，偏差在0~output_color_grade_1之间的点会被染成由蓝到绿，偏差在output_color_grade_1~output_color_grade_2之间的点会被染成由绿到黄，偏差在output_color_grade_1~output_color_grade_3之间的点会被染成由黄到红，偏差超过output_color_grade_3的点会被染成红色，目前放在`x64\Release\data`下
+* output_file_icp_color：点云染色后的结果，偏差在0\~output_color_grade_1之间的点会被染成由蓝到绿，偏差在output_color_grade_1\~output_color_grade_2之间的点会被染成由绿到黄，偏差在output_color_grade_1\~output_color_grade_3之间的点会被染成由黄到红，偏差超过output_color_grade_3的点会被染成红色，目前放在`x64\Release\data`下
 * output_file_total_bias：统计所有点的信息，包含了如下信息，目前放在`x64\Release\data`下
   * vertex amount：所有点的总个数
   * exc_vertex amount：超过阈值点的总个数
